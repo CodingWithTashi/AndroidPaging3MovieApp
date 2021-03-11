@@ -1,0 +1,3 @@
+include ':StringUtilLibrary'
+include ':app'
+rootProject.name = "Movie Ground"
